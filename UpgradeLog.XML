@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="DrawingBoard">
+</Property><Property Name="解决方案文件" Value="C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DrawingBoard\DrawingBoard.sln">
+</Property><Property Name="用户选项文件" Value="C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DrawingBoard\DrawingBoard.suo">
+</Property><Property Name="Date" Value="2011年10月29日">
+</Property><Property Name="Time" Value="14:25">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="DrawingBoard.sln" Description="文件已成功备份为 C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DrawingBoard\Backup\DrawingBoard.sln">
+</Event><Event ErrorLevel="0" Project="" Source="DrawingBoard.suo" Description="文件已成功备份为 C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DrawingBoard\Backup\DrawingBoard.suo">
+</Event><Event ErrorLevel="0" Project="DrawingBoard" Source="DrawingBoard\DrawingBoard.csproj" Description="项目文件已成功备份为 C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DrawingBoard\Backup\DrawingBoard\DrawingBoard.csproj">
+</Event><Event ErrorLevel="0" Project="DrawingBoard" Source="DrawingBoard\Form1.cs" Description="文件已成功备份为 C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DrawingBoard\Backup\DrawingBoard\Form1.cs">
+</Event><Event ErrorLevel="0" Project="DrawingBoard" Source="DrawingBoard\Form1.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DrawingBoard\Backup\DrawingBoard\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DrawingBoard" Source="DrawingBoard\Program.cs" Description="文件已成功备份为 C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DrawingBoard\Backup\DrawingBoard\Program.cs">
+</Event><Event ErrorLevel="0" Project="DrawingBoard" Source="DrawingBoard\Properties\AssemblyInfo.cs" Description="文件已成功备份为 C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DrawingBoard\Backup\DrawingBoard\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="DrawingBoard" Source="DrawingBoard\Properties\Resources.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DrawingBoard\Backup\DrawingBoard\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DrawingBoard" Source="DrawingBoard\Properties\Settings.Designer.cs" Description="文件已成功备份为 C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DrawingBoard\Backup\DrawingBoard\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="DrawingBoard" Source="DrawingBoard\Properties\Settings.settings" Description="文件已成功备份为 C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DrawingBoard\Backup\DrawingBoard\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="DrawingBoard" Source="DrawingBoard\Form1.resx" Description="文件已成功备份为 C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DrawingBoard\Backup\DrawingBoard\Form1.resx">
+</Event><Event ErrorLevel="0" Project="DrawingBoard" Source="DrawingBoard\Properties\Resources.resx" Description="文件已成功备份为 C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DrawingBoard\Backup\DrawingBoard\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="DrawingBoard" Source="DrawingBoard\DrawingBoard.csproj" Description="项目已成功转换">
+</Event><Event ErrorLevel="3" Project="DrawingBoard" Source="DrawingBoard\DrawingBoard.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="DrawingBoard.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="DrawingBoard.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="DrawingBoard" Source="DrawingBoard\DrawingBoard.csproj" Description="扫描完成: 项目文件不需要升级。">
+</Event></UpgradeLog>

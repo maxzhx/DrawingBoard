@@ -1,0 +1,26 @@
+C:\Documents and Settings\r401001\My Documents\Visual Studio 2008\Projects\DrawingBoard\DrawingBoard\bin\Debug\DrawingBoard.exe
+C:\Documents and Settings\r401001\My Documents\Visual Studio 2008\Projects\DrawingBoard\DrawingBoard\bin\Debug\DrawingBoard.pdb
+C:\Documents and Settings\r401001\My Documents\Visual Studio 2008\Projects\DrawingBoard\DrawingBoard\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\r401001\My Documents\Visual Studio 2008\Projects\DrawingBoard\DrawingBoard\obj\Debug\DrawingBoard.Form1.resources
+C:\Documents and Settings\r401001\My Documents\Visual Studio 2008\Projects\DrawingBoard\DrawingBoard\obj\Debug\DrawingBoard.Properties.Resources.resources
+C:\Documents and Settings\r401001\My Documents\Visual Studio 2008\Projects\DrawingBoard\DrawingBoard\obj\Debug\DrawingBoard.csproj.GenerateResource.Cache
+C:\Documents and Settings\r401001\My Documents\Visual Studio 2008\Projects\DrawingBoard\DrawingBoard\obj\Debug\DrawingBoard.exe
+C:\Documents and Settings\r401001\My Documents\Visual Studio 2008\Projects\DrawingBoard\DrawingBoard\obj\Debug\DrawingBoard.pdb
+C:\Documents and Settings\user\桌面\DrawingBoard\DrawingBoard\DrawingBoard\obj\Debug\DrawingBoard.exe
+C:\Documents and Settings\user\桌面\DrawingBoard\DrawingBoard\DrawingBoard\obj\Debug\DrawingBoard.pdb
+C:\Documents and Settings\user\桌面\DrawingBoard\DrawingBoard\DrawingBoard\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\桌面\DrawingBoard\DrawingBoard\DrawingBoard\obj\Debug\DrawingBoard.Form1.resources
+C:\Documents and Settings\user\桌面\DrawingBoard\DrawingBoard\DrawingBoard\obj\Debug\DrawingBoard.Properties.Resources.resources
+C:\Documents and Settings\user\桌面\DrawingBoard\DrawingBoard\DrawingBoard\obj\Debug\DrawingBoard.csproj.GenerateResource.Cache
+C:\Documents and Settings\user\桌面\DrawingBoard\DrawingBoard\DrawingBoard\bin\Debug\DrawingBoard.exe
+C:\Documents and Settings\user\桌面\DrawingBoard\DrawingBoard\DrawingBoard\bin\Debug\DrawingBoard.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DrawingBoard\DrawingBoard\obj\Debug\DrawingBoard.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DrawingBoard\DrawingBoard\obj\Debug\DrawingBoard.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DrawingBoard\DrawingBoard\bin\Debug\DrawingBoard.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DrawingBoard\DrawingBoard\bin\Debug\DrawingBoard.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DrawingBoard\DrawingBoard\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DrawingBoard\DrawingBoard\obj\Debug\DrawingBoard.Form1.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DrawingBoard\DrawingBoard\obj\Debug\DrawingBoard.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DrawingBoard\DrawingBoard\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DrawingBoard\DrawingBoard\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\DrawingBoard\DrawingBoard\obj\Debug\DrawingBoard.Form2.resources
